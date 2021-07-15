@@ -1,0 +1,2 @@
+# Pog-Pack
+Pog Pack is exactly what the name says a pog texture pack is the poggest pack around and features mutiple quality of life improvements to make your general minecraft experience better without changing the textures too much like dark mode and which way the hopper is facing, etc. I recommend only using the Pog Pack and not using any other texture packs unless modified to work with the pack to avoid the wrong textures showing.
